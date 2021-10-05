@@ -1,0 +1,98 @@
+.filter__container {
+    float: left;
+    width: 20%;
+    height: 80%;
+}
+
+.filter__heading {
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.filters {
+    padding: 10px;
+    height: 100px;
+}
+
+.filters__heading {
+    font-size: 20px;
+}
+
+.filters__body {
+    font-size: 15px;
+}
+
+.listing__container {
+    float: right;
+    width: 79%;
+    height: 750px;
+}
+
+.hotel__container {
+    height: 100px;
+    padding: 10px;
+    border-bottom: 2px solid rgb(82, 113, 116);
+    margin-left: 10px;
+    box-shadow: 0 1px 4px 0 #00000094;
+    border-radius: 5px;
+}
+
+.searchlist__container--image {
+    float: left;
+    width: 20%;
+}
+
+.searchlist__container--detail {
+    float: right;
+    width: 79%;
+}
+
+.hoteldetails {
+    float: left;
+    width: 79%;
+}
+
+.book {
+    float: right;
+    width: 20%;
+    margin-top: 35px;
+}
+
+.bookbtn {
+    background-color: chartreuse;
+    border: 2px solid chartreuse;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.bookbtn:hover {
+    background-color: red;
+    color: white;
+    border: 2px solid red;
+    cursor: pointer;
+}
+
+.promtbox__wrapper {
+    min-width: 400px;
+    min-height: 150px;
+    padding: 20px;
+    padding-top: 10px;
+  }
+
+  .promtbox__wrapper--mainheading {
+    margin: 0;
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .promtbox__wrapper--button {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .promtbox__wrapper--content {
+    text-align: center;
+    font-size: 16px;
+  }
